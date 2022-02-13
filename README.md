@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedpushan
-- 👀 I’m interested in Programming Stuffs, Music, Sports
+- 👀 I’m interested in Programming Stuffs, Music, Quantum computing
 - 🌱 I’m currently learning Quantum computing from QXQ also I'm a high school student at Cantonment Public School and College, Rangpur
 - 💞️ I’m looking to collaborate on creating new things. Anykinds of things.
 - 📫 How to reach me, My mail : pushancolonel@gmail.com
